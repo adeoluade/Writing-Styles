@@ -29,4 +29,4 @@ To create a task/to-do list
 you can mention people by
 @adeoluade
 
-For more, click this [link] (https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+For more, click this [link](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
