@@ -10,8 +10,7 @@ _Italics_ or *Also Italics*
 
 ***This is for Bold Italics***
 
-in order to quote text
->this makes it quoted
+>in order to quote text
 
 `this is to quote code`
 
