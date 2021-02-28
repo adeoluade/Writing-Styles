@@ -1,15 +1,31 @@
-# Demo 
+# Big Heading
+## Smaller Heading
+#### Very Small heading
 
-Some description!
+__Bold Text__ or use **Also Bold Text**
 
-## Subheader
+_Italics_ or *Also Italics*
 
-Watch tutorial on YouTube.
+~~This is for a strikethrough~~
 
-This is another update
+***This is for Bold Italics***
 
-Another update
+in order to quote text
+>this makes it quoted
 
-another
-last time
-the commit isnt working
+`this is to quote code`
+
+For hyper links to [google](www.google.com)
+
+you can also make list
+- George Washington
+- John Adams
+- Alexander Hamilton
+
+To create a task/to-do list
+- [ ] Install git
+- [ ] install plugs for VSC
+- [ ] Create readme file for github
+
+you can mention people by
+@adeoluade
